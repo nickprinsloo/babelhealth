@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       </Head>
       <div className="flex justify-center items-center h-screen">
         <Image
-          src="/logo.svg"
+          src="./logo.svg"
           alt="Babel Health Logo"
           width={935}
           height={195}
